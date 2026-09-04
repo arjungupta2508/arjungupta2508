@@ -18,8 +18,7 @@
 
 - 🌌 Co-authoring a research paper applying **Gramian Angular Fields / Markov Transition Fields** to SDSS photometric spectral energy distributions for CNN-based classification — my first step into AI/ML research
 - 🎓 Studying at **Sharda University**, School of Computing Science & Engineering
-- 🤝 Researching under the mentorship of **Professor Ali Imam Abidi**
-- 🧪 Building ML concepts from scratch to actually understand them — like implementing **Word2Vec (Skip-gram + Negative Sampling) using only NumPy**, no frameworks
+- 🧪 Building ML concepts from scratch to actually understand them — no frameworks
 
 ### 🌱 Currently exploring
 
